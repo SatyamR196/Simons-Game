@@ -7,7 +7,7 @@
               it was a top-selling toy during Christmas shopping seasons.
 &bull; Legacy: Simon tests memory, concentration, and pattern recognition skills, captivating generations of players. 🎮✨
 </pre>
-# Here’s how to play the game :
+# Here’s how to play the game :  <a href="https://satyamr196.github.io/Simons-Game/"><button><b><u>Play Now</u></b> </button></a>
 &bull; Simon consists of four large light-up buttons: red, green, blue, and orange.<br>
 &bull; The game creates a sequence of tones and lights by illuminating these buttons in a specific order.<br>
 &bull; The player’s task is to memorize the sequence and then repeat it by pressing the buttons in the same order.<br>
@@ -17,5 +17,4 @@
   1.This is my modified version,where at every level new set of button will flash and you have to repeat it,while in traditional version after level up only 1 button flashes
     and you have to press all the previous one's before pressing the newly flashed button.<br>
   2.For level 1,1 button will flash ,for level 2 random buttons will flash and so on ....<br>
-  <a href="https://satyamr196.github.io/Simons-Game/" class="button pill primary><button>Play Now</button></a>
 <img width="326" style="margin:auto" alt="image" src="https://github.com/SatyamR196/Simons-Game/assets/157214562/4ece69ce-566b-49e3-a1de-4be0047675f7">
