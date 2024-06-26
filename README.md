@@ -14,3 +14,4 @@ Legacy: Simon tests memory, concentration, and pattern recognition skills, capti
   1.This is my modified version,where at every level new set of button will flash and you have to repeat it,while in traditional version after level up only 1 button flashes
     and you have to press all the previous one's before pressing the newly flashed button.
   2.For level 1,1 button will flash ,for level 2 random buttons will flash and so on ....
+<img width="326" alt="image" src="https://github.com/SatyamR196/Simons-Game/assets/157214562/4ece69ce-566b-49e3-a1de-4be0047675f7">
