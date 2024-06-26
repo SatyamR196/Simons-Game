@@ -1,10 +1,13 @@
 # What is Simon's Game :
 <pre>
 &bull; Invention: Simon is an electronic game invented by Ralph H. Baer and Howard J. Morrison in 1978.
-&bull; Gameplay: Players must memorize a sequence of tones and lights displayed on four large buttons.Repeat the sequence correctly to advance.
+&bull; Gameplay: Players must memorize a sequence of tones and lights displayed on four large buttons.
+       Repeat the sequence correctly to advance.
 &bull; Challenges: As you progress, the sequences become longer and more complex.
-&bull; Popularity: Simon became a pop culture symbol of the 1970s and 1980s.Launched at Studio 54, it was a top-selling toy during Christmas shopping seasons.
-&bull; Legacy: Simon tests memory, concentration, and pattern recognition skills, captivating generations of players. 🎮✨
+&bull; Popularity: Simon became a pop culture symbol of the 1970s and 1980s.Launched at Studio 54,
+       it was a top-selling toy during Christmas shopping seasons.
+&bull; Legacy: Simon tests memory, concentration, and pattern recognition skills, captivating 
+       generations of players. 🎮✨
 </pre>
 # Here’s how to play the game :
 &bull; Simon consists of four large light-up buttons: red, green, blue, and orange.<br>
